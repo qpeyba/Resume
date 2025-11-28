@@ -26,7 +26,7 @@
 ![Networking](https://img.shields.io/badge/networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![CDN](https://img.shields.io/badge/CDN-%23121011.svg?style=for-the-badge) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Xray-core](https://img.shields.io/badge/☢_Xray_core-%23121011.svg?style=for-the-badge)
 
 ### Learning:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
 # Портфолио:
 - [Simple3DViewer](https://github.com/qpeyba/Simple3DViewer) (Java) - проект для курса "Компьютерной Графики", выполненный в команде с одногруппниками, позволяющий просматривать 3D модели.
